@@ -20,6 +20,8 @@ Fresns is a free and open source social network service software, a general-purp
 
 This application is developed utilizing the Fresns API and crafted with the React Native framework. It boasts a pristine and streamlined architecture, ensuring complete decoupling. During subsequent development phases, there is no need to concern oneself with compatibility or conflict issues when incorporating third-party services or styling libraries, as no additional elements are integrated or bound within the codebase. This design choice significantly facilitates a more convenient and seamless secondary development process.
 
+SDK: [https://github.com/fresns/client-sdk-react-native](https://github.com/fresns/client-sdk-react-native)
+
 ## Instructions for use
 
 Duplicate the `env.example.js` file from the `/sdk/` directory into the root directory, renaming it to `env.js`. Then, populate your configuration details ([public key](https://docs.fresns.com/clients/sdk/#api-key)) as specified within the file.
